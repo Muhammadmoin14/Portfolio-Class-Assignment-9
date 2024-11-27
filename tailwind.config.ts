@@ -11,6 +11,11 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        main: '#ebfeff',
+        secondcolor: '#457B9D'
+      },
+      fontFamily: {
+        Sora:['Sora','sans-serif']
       },
     },
   },
